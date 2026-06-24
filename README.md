@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Studio V
 
 Full-stack PHP/MySQL website for Studio V, a photo studio and mobile servicing business.
@@ -22,3 +23,7 @@ Change the default admin password after first login in a real deployment.
 ## Configure Contact Details
 
 Edit `includes/config.php` to update the shop phone number, email, address, WhatsApp number, and Google Maps embed URL.
+=======
+# studio_v
+photo shop web site
+>>>>>>> 56d7ec39bed3ebb39fb162db8998dad5bed07aec
